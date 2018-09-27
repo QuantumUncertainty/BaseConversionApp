@@ -15,9 +15,11 @@ using System.Windows.Shapes;
 
 namespace BaseConversionApp
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    /*
+     * TODO:
+     * 1) add base 16 conversion
+     * 2) add other bases to 10 conversion
+     */
     public partial class MainWindow : Window
     {
         public MainWindow()
